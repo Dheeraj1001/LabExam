@@ -1,6 +1,6 @@
 print("Dheeraj Theegela")
 print("E19CSE393 \n")
-no = int(input("Enter a Number: "))
+no = 16
 if no > 1:
     for i in range(2, int(no/2)+1):
         if (no % i) == 0:
