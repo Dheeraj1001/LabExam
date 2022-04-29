@@ -10,6 +10,7 @@ pipeline {
   stage('Build') { 
    steps { 
     echo 'Building jar files...' 
+    ech 'This is devops lab'
    } 
   } 
  } 
